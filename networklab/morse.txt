@@ -1,0 +1,4 @@
+Morse Code Audio: Click to play audio file (morsecode.wav)
+Speed: 20WPM / Tone: 500Hz
+Dots and Dashes: .... . -.--  .--. -.-- .-. .- - .  --- ..-.  ... -.-- .-.. ...- .- -. --..--  -.-- --- ..- .-.  .--. .- ... ... .-- --- .-. -..  .. ...  .-- . .-.. .-.. -.. --- -. . 
+Original Text: HEY PYRATE OF SYLVAN, YOUR PASSWORD IS 'WELLDONE'
