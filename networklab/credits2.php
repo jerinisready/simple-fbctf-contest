@@ -3,22 +3,19 @@
 require 'mail/PHPMailerAutoload.php';
 
 $mail = new PHPMailer;
-$receipent = isset($_POST['mymail'])?$_POST['mymail']:'jerinisready@gmail.com';
+$receipent = isset($_POST['mymail'])?$_POST['mymail']:'youremail@gmail.com';
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp.gmail.com'; 					  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'dhanushackathon@gmail.com';        // SMTP username
-$mail->Password = '(6@(k !t';                         // SMTP password   "CRACK IT"
+$mail->Username = 'youremail@gmail.com';        // SMTP username
+$mail->Password = 'youremailpassword';                         // SMTP password   "CRACK IT"
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
-$mail->setFrom('dhanushackathon@gmail.com', 'LETS DECRYPT CEK HACKATHON 2017');
+$mail->setFrom('youremail@gmail.com', 'LETS DECRYPT CEK HACKATHON 2017');
 $mail->addAddress($receipent, 'PARTICIPANT');     // Add a recipient
-$mail->addReplyTo('jerinisready@gmail.com', 'Organizer');
-
-//$mail->addAttachment('http://www.compasscek.in/networklab/Dhanus-Invitation.JPG', 'Broshure Dhanus17 Invitation');      		   // Add attachments
-//$mail->addAttachment('http://www.compasscek.in/networklab/Dhanus-Events-List.JPG', 'Broshure Dhanus17 Events List');         // Add attachments
+$mail->addReplyTo('youremail@gmail.com', 'Organizer');
 $mail->isHTML(true);                                  // Set email format to HTML
 
 $mail->Subject = 'DHANUS\'17 is PROUDLY INVITING YOU!';
@@ -289,15 +286,7 @@ $mail->Body    = '
 													 <a href= "http://www.compasscek.in/networklab/Dhanus-Events-List.JPG"> Page Events List </a></p>
                         
 						<p>You Had Reached the right place. Go forward with the password! </p>
-                        <p>Good luck! We seek forward to Meet you at  Colege of Engineering Kallooppara on 16th February 2017.</p>
-						<p>Remember! An 16th FEB 2017 from 7:00am onwards, We will take necessory actions to make the game available only at our campus network!</p>
-						<p>So we Invite Top 15 participants with their Laptop(s) on the deed day into our campus.</p>
-						<p>Registeration Fees of Rs 100/- will be only for them. </p>
-						<p>We are so Sorry, But we cannot allow participitaton  or Award Bounty To anyone who fails to register on the FINAL DAY! </p>
-						<p>Top 3 teams in LETS DECRYPT - CAPTURE THE FUTURE HACKATHON 2017 Will have free pass</p>
-						<p>CONTACT  ( <strong> 9497270863 </ strong> ~ JERIN ), ( <strong> 8943459085 </ strong> ~ VISHAL ) </p>
-						<p>Remember, If Top Level Players Are Not registered before 9:30; We will try to accomodate more people! So Be at our campus and take a chance!</p>
-						<p>We Will Soon Update our HOME PAGE https://networklab.compasscek.in </p>
+			                        <p>Good luck! We seek forward to Meet you at  Colege of Engineering Kallooppara on 16th February 2017.</p>
 						<br/>
 						<p>THANK YOU!</p>
 						<br />
