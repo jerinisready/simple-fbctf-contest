@@ -9,16 +9,16 @@ if($receipent!='samplemail@gmail.com' or $_SERVER['PHP_SELF'] != '/credits.php')
 
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 $mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.gmail.com'; 					  // Specify main and backup SMTP servers
+$mail->Host = 'smtp.gmail.com'; 		      // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'dhanushackathon@gmail.com';        // SMTP username
+$mail->Username = 'youremail@gmail.com';              // SMTP username
 $mail->Password = '(6@(k !t';                         // SMTP password   "CRACK IT"
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
-$mail->setFrom('dhanushackathon@gmail.com', 'LETS DECRYPT CEK HACKATHON 2017');
+$mail->setFrom('youremail@gmail.com', 'LETS DECRYPT CEK HACKATHON 2017');
 $mail->addAddress($receipent, 'LAB ASSISTANT');     // Add a recipient
-$mail->addReplyTo('jerinisready@gmail.com', 'Organizer');
+$mail->addReplyTo('youremail@gmail.com', 'Organizer');
 
 //$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
 //$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
@@ -318,7 +318,7 @@ $mail->Body    = '
               <table border="0" cellpadding="0" cellspacing="0">
                 <tr>
                   <td class="content-block">
-                    <span class="apple-link">LETS DECRYPT HACKATHON 2017 TEAM DHANUS</span>
+                    <span class="apple-link"> HACKATHON 2017 </span>
                   </td>
                 </tr>
                 <tr>
