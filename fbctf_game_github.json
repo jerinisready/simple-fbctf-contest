@@ -1,0 +1,3154 @@
+{
+    "logos": {
+        "logos": [
+            {
+                "name": "admin",
+                "logo": "\/static\/svg\/icons\/badges\/badge-admin.svg",
+                "used": true,
+                "enabled": true,
+                "protected": true,
+                "custom": false
+            },
+            {
+                "name": "4chan-2",
+                "logo": "\/static\/svg\/icons\/badges\/badge-4chan-2.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "4chan",
+                "logo": "\/static\/svg\/icons\/badges\/badge-4chan.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "8ball",
+                "logo": "\/static\/svg\/icons\/badges\/badge-8ball.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "alien-2",
+                "logo": "\/static\/svg\/icons\/badges\/badge-alien-2.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "alien-3",
+                "logo": "\/static\/svg\/icons\/badges\/badge-alien-3.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "alien",
+                "logo": "\/static\/svg\/icons\/badges\/badge-alien.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "anchor",
+                "logo": "\/static\/svg\/icons\/badges\/badge-anchor.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "apple",
+                "logo": "\/static\/svg\/icons\/badges\/badge-apple.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "atom",
+                "logo": "\/static\/svg\/icons\/badges\/badge-atom.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "ax",
+                "logo": "\/static\/svg\/icons\/badges\/badge-ax.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "b",
+                "logo": "\/static\/svg\/icons\/badges\/badge-b.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bar-graph",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bar-graph.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "barking",
+                "logo": "\/static\/svg\/icons\/badges\/badge-barking.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "baseball",
+                "logo": "\/static\/svg\/icons\/badges\/badge-baseball.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "basketball-hoop",
+                "logo": "\/static\/svg\/icons\/badges\/badge-basketball-hoop.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "basketball",
+                "logo": "\/static\/svg\/icons\/badges\/badge-basketball.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bat",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bat.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "batman",
+                "logo": "\/static\/svg\/icons\/badges\/badge-batman.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "battery",
+                "logo": "\/static\/svg\/icons\/badges\/badge-battery.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "beaker",
+                "logo": "\/static\/svg\/icons\/badges\/badge-beaker.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bike",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bike.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bluetooth",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bluetooth.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "boba-fett",
+                "logo": "\/static\/svg\/icons\/badges\/badge-boba-fett.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bomb",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bomb.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bone",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bone.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "boomerang",
+                "logo": "\/static\/svg\/icons\/badges\/badge-boomerang.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bow-arrow",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bow-arrow.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bowling-ball",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bowling-ball.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bowling-pin",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bowling-pin.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "bowtie",
+                "logo": "\/static\/svg\/icons\/badges\/badge-bowtie.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "box",
+                "logo": "\/static\/svg\/icons\/badges\/badge-box.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "boxing-glove",
+                "logo": "\/static\/svg\/icons\/badges\/badge-boxing-glove.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "broomstick",
+                "logo": "\/static\/svg\/icons\/badges\/badge-broomstick.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "burger",
+                "logo": "\/static\/svg\/icons\/badges\/badge-burger.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "c3po",
+                "logo": "\/static\/svg\/icons\/badges\/badge-c3po.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "cactus",
+                "logo": "\/static\/svg\/icons\/badges\/badge-cactus.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "california",
+                "logo": "\/static\/svg\/icons\/badges\/badge-california.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "camera",
+                "logo": "\/static\/svg\/icons\/badges\/badge-camera.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "captain-america",
+                "logo": "\/static\/svg\/icons\/badges\/badge-captain-america.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "car",
+                "logo": "\/static\/svg\/icons\/badges\/badge-car.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "cat",
+                "logo": "\/static\/svg\/icons\/badges\/badge-cat.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "centaur",
+                "logo": "\/static\/svg\/icons\/badges\/badge-centaur.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "checkmark",
+                "logo": "\/static\/svg\/icons\/badges\/badge-checkmark.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "cherry",
+                "logo": "\/static\/svg\/icons\/badges\/badge-cherry.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "chess-knight",
+                "logo": "\/static\/svg\/icons\/badges\/badge-chess-knight.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "chess-rook",
+                "logo": "\/static\/svg\/icons\/badges\/badge-chess-rook.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "chevron-corporal",
+                "logo": "\/static\/svg\/icons\/badges\/badge-chevron-corporal.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "chevron-flag",
+                "logo": "\/static\/svg\/icons\/badges\/badge-chevron-flag.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "cloud",
+                "logo": "\/static\/svg\/icons\/badges\/badge-cloud.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "coffee",
+                "logo": "\/static\/svg\/icons\/badges\/badge-coffee.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "command",
+                "logo": "\/static\/svg\/icons\/badges\/badge-command.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "compass",
+                "logo": "\/static\/svg\/icons\/badges\/badge-compass.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "computer-mouse",
+                "logo": "\/static\/svg\/icons\/badges\/badge-computer-mouse.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "cone",
+                "logo": "\/static\/svg\/icons\/badges\/badge-cone.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "corndog",
+                "logo": "\/static\/svg\/icons\/badges\/badge-corndog.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "crown",
+                "logo": "\/static\/svg\/icons\/badges\/badge-crown.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "cupcake",
+                "logo": "\/static\/svg\/icons\/badges\/badge-cupcake.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "cursor",
+                "logo": "\/static\/svg\/icons\/badges\/badge-cursor.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "darth-vader",
+                "logo": "\/static\/svg\/icons\/badges\/badge-darth-vader.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "deadpool",
+                "logo": "\/static\/svg\/icons\/badges\/badge-deadpool.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "deal-with-it",
+                "logo": "\/static\/svg\/icons\/badges\/badge-deal-with-it.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "deathly-hollows",
+                "logo": "\/static\/svg\/icons\/badges\/badge-deathly-hollows.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "diamond",
+                "logo": "\/static\/svg\/icons\/badges\/badge-diamond.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "dirtbike",
+                "logo": "\/static\/svg\/icons\/badges\/badge-dirtbike.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "dog",
+                "logo": "\/static\/svg\/icons\/badges\/badge-dog.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "double-ax",
+                "logo": "\/static\/svg\/icons\/badges\/badge-double-ax.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "drop",
+                "logo": "\/static\/svg\/icons\/badges\/badge-drop.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "dumbell",
+                "logo": "\/static\/svg\/icons\/badges\/badge-dumbell.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "egg",
+                "logo": "\/static\/svg\/icons\/badges\/badge-egg.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "elephant",
+                "logo": "\/static\/svg\/icons\/badges\/badge-elephant.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "eye",
+                "logo": "\/static\/svg\/icons\/badges\/badge-eye.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "face-cloud",
+                "logo": "\/static\/svg\/icons\/badges\/badge-face-cloud.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "face-helmeted",
+                "logo": "\/static\/svg\/icons\/badges\/badge-face-helmeted.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "face-sad",
+                "logo": "\/static\/svg\/icons\/badges\/badge-face-sad.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "face-star",
+                "logo": "\/static\/svg\/icons\/badges\/badge-face-star.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "face-toast",
+                "logo": "\/static\/svg\/icons\/badges\/badge-face-toast.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "face-tongue",
+                "logo": "\/static\/svg\/icons\/badges\/badge-face-tongue.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "feather",
+                "logo": "\/static\/svg\/icons\/badges\/badge-feather.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "flag",
+                "logo": "\/static\/svg\/icons\/badges\/badge-flag.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "flower-2",
+                "logo": "\/static\/svg\/icons\/badges\/badge-flower-2.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "flower",
+                "logo": "\/static\/svg\/icons\/badges\/badge-flower.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "football",
+                "logo": "\/static\/svg\/icons\/badges\/badge-football.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "fork",
+                "logo": "\/static\/svg\/icons\/badges\/badge-fork.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "fries",
+                "logo": "\/static\/svg\/icons\/badges\/badge-fries.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "game-controller",
+                "logo": "\/static\/svg\/icons\/badges\/badge-game-controller.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "glasses",
+                "logo": "\/static\/svg\/icons\/badges\/badge-glasses.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "green-lantern",
+                "logo": "\/static\/svg\/icons\/badges\/badge-green-lantern.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "guy-fawkes",
+                "logo": "\/static\/svg\/icons\/badges\/badge-guy-fawkes.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "hat-viking",
+                "logo": "\/static\/svg\/icons\/badges\/badge-hat-viking.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "hat-witch",
+                "logo": "\/static\/svg\/icons\/badges\/badge-hat-witch.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "head-lego",
+                "logo": "\/static\/svg\/icons\/badges\/badge-head-lego.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "headphones",
+                "logo": "\/static\/svg\/icons\/badges\/badge-headphones.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "heart",
+                "logo": "\/static\/svg\/icons\/badges\/badge-heart.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "high-heel",
+                "logo": "\/static\/svg\/icons\/badges\/badge-high-heel.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "home",
+                "logo": "\/static\/svg\/icons\/badges\/badge-home.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "hook",
+                "logo": "\/static\/svg\/icons\/badges\/badge-hook.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "hotdog",
+                "logo": "\/static\/svg\/icons\/badges\/badge-hotdog.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "html-file-2",
+                "logo": "\/static\/svg\/icons\/badges\/badge-html-file-2.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "html-file",
+                "logo": "\/static\/svg\/icons\/badges\/badge-html-file.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "html",
+                "logo": "\/static\/svg\/icons\/badges\/badge-html.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "ice-cream",
+                "logo": "\/static\/svg\/icons\/badges\/badge-ice-cream.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "infinity",
+                "logo": "\/static\/svg\/icons\/badges\/badge-infinity.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "invader-2",
+                "logo": "\/static\/svg\/icons\/badges\/badge-invader-2.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "invader",
+                "logo": "\/static\/svg\/icons\/badges\/badge-invader.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "iron-man",
+                "logo": "\/static\/svg\/icons\/badges\/badge-iron-man.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "jack-o-lantern",
+                "logo": "\/static\/svg\/icons\/badges\/badge-jack-o-lantern.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "jeep",
+                "logo": "\/static\/svg\/icons\/badges\/badge-jeep.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "kangaroo",
+                "logo": "\/static\/svg\/icons\/badges\/badge-kangaroo.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "kanye-glasses",
+                "logo": "\/static\/svg\/icons\/badges\/badge-kanye-glasses.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "key",
+                "logo": "\/static\/svg\/icons\/badges\/badge-key.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "kite",
+                "logo": "\/static\/svg\/icons\/badges\/badge-kite.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "knife",
+                "logo": "\/static\/svg\/icons\/badges\/badge-knife.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "lightbulb",
+                "logo": "\/static\/svg\/icons\/badges\/badge-lightbulb.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "lightning",
+                "logo": "\/static\/svg\/icons\/badges\/badge-lightning.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "location",
+                "logo": "\/static\/svg\/icons\/badges\/badge-location.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "man-newspaper",
+                "logo": "\/static\/svg\/icons\/badges\/badge-man-newspaper.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "marker",
+                "logo": "\/static\/svg\/icons\/badges\/badge-marker.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "monkey",
+                "logo": "\/static\/svg\/icons\/badges\/badge-monkey.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "monopoly-man",
+                "logo": "\/static\/svg\/icons\/badges\/badge-monopoly-man.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "moon",
+                "logo": "\/static\/svg\/icons\/badges\/badge-moon.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "moustache",
+                "logo": "\/static\/svg\/icons\/badges\/badge-moustache.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "music",
+                "logo": "\/static\/svg\/icons\/badges\/badge-music.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "mystery-man",
+                "logo": "\/static\/svg\/icons\/badges\/badge-mystery-man.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "nascar",
+                "logo": "\/static\/svg\/icons\/badges\/badge-nascar.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "pacman-ghost",
+                "logo": "\/static\/svg\/icons\/badges\/badge-pacman-ghost.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "pacman",
+                "logo": "\/static\/svg\/icons\/badges\/badge-pacman.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "paperclip",
+                "logo": "\/static\/svg\/icons\/badges\/badge-paperclip.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "peace-sign",
+                "logo": "\/static\/svg\/icons\/badges\/badge-peace-sign.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "peace",
+                "logo": "\/static\/svg\/icons\/badges\/badge-peace.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "pencil-sharpener",
+                "logo": "\/static\/svg\/icons\/badges\/badge-pencil-sharpener.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "penguin",
+                "logo": "\/static\/svg\/icons\/badges\/badge-penguin.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "penrose-triangle",
+                "logo": "\/static\/svg\/icons\/badges\/badge-penrose-triangle.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "pi",
+                "logo": "\/static\/svg\/icons\/badges\/badge-pi.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "picasa",
+                "logo": "\/static\/svg\/icons\/badges\/badge-picasa.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "plane",
+                "logo": "\/static\/svg\/icons\/badges\/badge-plane.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "plasma-gun",
+                "logo": "\/static\/svg\/icons\/badges\/badge-plasma-gun.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "plug",
+                "logo": "\/static\/svg\/icons\/badges\/badge-plug.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "pokemon",
+                "logo": "\/static\/svg\/icons\/badges\/badge-pokemon.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "puma",
+                "logo": "\/static\/svg\/icons\/badges\/badge-puma.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "pyramid",
+                "logo": "\/static\/svg\/icons\/badges\/badge-pyramid.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "r2d2",
+                "logo": "\/static\/svg\/icons\/badges\/badge-r2d2.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "radiation",
+                "logo": "\/static\/svg\/icons\/badges\/badge-radiation.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "rainbow",
+                "logo": "\/static\/svg\/icons\/badges\/badge-rainbow.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "reset",
+                "logo": "\/static\/svg\/icons\/badges\/badge-reset.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "revolver",
+                "logo": "\/static\/svg\/icons\/badges\/badge-revolver.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "robber",
+                "logo": "\/static\/svg\/icons\/badges\/badge-robber.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "robot",
+                "logo": "\/static\/svg\/icons\/badges\/badge-robot.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "rocker",
+                "logo": "\/static\/svg\/icons\/badges\/badge-rocker.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "rocket",
+                "logo": "\/static\/svg\/icons\/badges\/badge-rocket.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "rollerblade",
+                "logo": "\/static\/svg\/icons\/badges\/badge-rollerblade.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "sailboat",
+                "logo": "\/static\/svg\/icons\/badges\/badge-sailboat.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "saturn",
+                "logo": "\/static\/svg\/icons\/badges\/badge-saturn.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "sauron",
+                "logo": "\/static\/svg\/icons\/badges\/badge-sauron.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "sharethis",
+                "logo": "\/static\/svg\/icons\/badges\/badge-sharethis.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "shark",
+                "logo": "\/static\/svg\/icons\/badges\/badge-shark.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "shirt",
+                "logo": "\/static\/svg\/icons\/badges\/badge-shirt.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "shoe",
+                "logo": "\/static\/svg\/icons\/badges\/badge-shoe.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "skateboard",
+                "logo": "\/static\/svg\/icons\/badges\/badge-skateboard.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "skateboarder",
+                "logo": "\/static\/svg\/icons\/badges\/badge-skateboarder.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "skiier",
+                "logo": "\/static\/svg\/icons\/badges\/badge-skiier.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "skull-crossbones",
+                "logo": "\/static\/svg\/icons\/badges\/badge-skull-crossbones.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "snowboarder",
+                "logo": "\/static\/svg\/icons\/badges\/badge-snowboarder.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "soccerball",
+                "logo": "\/static\/svg\/icons\/badges\/badge-soccerball.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "sock",
+                "logo": "\/static\/svg\/icons\/badges\/badge-sock.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "spaceship-2",
+                "logo": "\/static\/svg\/icons\/badges\/badge-spaceship-2.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "spaceship",
+                "logo": "\/static\/svg\/icons\/badges\/badge-spaceship.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "speech-bubble",
+                "logo": "\/static\/svg\/icons\/badges\/badge-speech-bubble.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "speeding-ball",
+                "logo": "\/static\/svg\/icons\/badges\/badge-speeding-ball.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "spiderweb",
+                "logo": "\/static\/svg\/icons\/badges\/badge-spiderweb.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "stars",
+                "logo": "\/static\/svg\/icons\/badges\/badge-stars.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "stereo",
+                "logo": "\/static\/svg\/icons\/badges\/badge-stereo.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "stormtrooper",
+                "logo": "\/static\/svg\/icons\/badges\/badge-stormtrooper.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "swimmer",
+                "logo": "\/static\/svg\/icons\/badges\/badge-swimmer.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "swords",
+                "logo": "\/static\/svg\/icons\/badges\/badge-swords.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "tank",
+                "logo": "\/static\/svg\/icons\/badges\/badge-tank.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "tennis",
+                "logo": "\/static\/svg\/icons\/badges\/badge-tennis.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "tetris-j",
+                "logo": "\/static\/svg\/icons\/badges\/badge-tetris-j.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "tetris-t",
+                "logo": "\/static\/svg\/icons\/badges\/badge-tetris-t.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "tetris-z",
+                "logo": "\/static\/svg\/icons\/badges\/badge-tetris-z.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "thors-hammer",
+                "logo": "\/static\/svg\/icons\/badges\/badge-thors-hammer.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "throwing-star",
+                "logo": "\/static\/svg\/icons\/badges\/badge-throwing-star.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "thumbsup",
+                "logo": "\/static\/svg\/icons\/badges\/badge-thumbsup.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "tooth",
+                "logo": "\/static\/svg\/icons\/badges\/badge-tooth.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "tophat",
+                "logo": "\/static\/svg\/icons\/badges\/badge-tophat.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "traffic-cone",
+                "logo": "\/static\/svg\/icons\/badges\/badge-traffic-cone.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "trophy",
+                "logo": "\/static\/svg\/icons\/badges\/badge-trophy.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "turkey-leg",
+                "logo": "\/static\/svg\/icons\/badges\/badge-turkey-leg.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "umbrella",
+                "logo": "\/static\/svg\/icons\/badges\/badge-umbrella.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "unicorn",
+                "logo": "\/static\/svg\/icons\/badges\/badge-unicorn.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "unicycle",
+                "logo": "\/static\/svg\/icons\/badges\/badge-unicycle.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "vampire",
+                "logo": "\/static\/svg\/icons\/badges\/badge-vampire.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "venn-diagram",
+                "logo": "\/static\/svg\/icons\/badges\/badge-venn-diagram.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "volleyball",
+                "logo": "\/static\/svg\/icons\/badges\/badge-volleyball.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "vulcan-salute",
+                "logo": "\/static\/svg\/icons\/badges\/badge-vulcan-salute.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "watch",
+                "logo": "\/static\/svg\/icons\/badges\/badge-watch.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "watergun",
+                "logo": "\/static\/svg\/icons\/badges\/badge-watergun.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "whale",
+                "logo": "\/static\/svg\/icons\/badges\/badge-whale.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "whistle",
+                "logo": "\/static\/svg\/icons\/badges\/badge-whistle.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "wifi",
+                "logo": "\/static\/svg\/icons\/badges\/badge-wifi.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "x-and-o",
+                "logo": "\/static\/svg\/icons\/badges\/badge-x-and-o.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            },
+            {
+                "name": "x-men",
+                "logo": "\/static\/svg\/icons\/badges\/badge-x-men.svg",
+                "used": true,
+                "enabled": true,
+                "protected": false,
+                "custom": false
+            }
+        ]
+    },
+    "teams": {
+        "teams": [
+            {
+                "name": "admin",
+                "active": true,
+                "admin": true,
+                "protected": true,
+                "visible": false,
+                "password_hash": "$2y$12$GqZAPHq8pWXlhTEfV.uBHOhIjrfughBwOa5v6b7OjRvoIOxwcxoZO",
+                "points": 0,
+                "logo": "admin",
+                "data": {"password": "falsealarm999" }
+            },
+            {
+                "name": "falseplayers",
+                "active": true,
+                "admin": true,
+                "protected": false,
+                "visible": true,
+                "password_hash": "$2y$12$GRktjTWLQjKu2OvkkFskd.Yh92sIxlW5IKbNqf0y5LEAB5aa0H1DC",
+                "points": 0,
+                "logo": "alien-2",
+                "data": {"password": "falseplayers"}
+            }
+
+        ]
+    },
+    "categories": {
+        "categories": [
+            {
+                "category": "CEKLAB~EXPERIMENTS",
+                "protected": false
+            },
+			{
+                "category": "DIRECT QUESTIONS",
+                "protected": false
+            },
+			{
+                "category": "HELP OTHERS",
+                "protected": false
+            },
+            {
+                "category": "CRACK WINDOWS",
+                "protected": false
+            },
+            {
+                "category": "ENCRYPTION",
+                "protected": false
+            },
+            {
+                "category": "None",
+                "protected": true
+            },
+            {
+                "category": "Quiz",
+                "protected": true
+            }
+        ]
+    },
+    "levels": {
+        "levels": [
+            {
+                "type": "quiz",
+                "title": "Help me for Root Permission",
+                "active": true,
+                "description": "I am new to Linux and I love to use CLI.I am not able to modify a content inside a folder, one of my friend told me to change file permission with chmod but the system says I don't have root permission. What should I append in front to work \"chmod 755 \/var\/log\/*\"? ",
+                "entity_iso_code": "EG",
+                "category": "HELP OTHERS",
+                "points": 20,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "sudo",
+                "hint": "Do as super user",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Help me to find default User",
+                "active": true,
+                "description": "To do anything in a computer, there must be a user. Every OS have a default user with all privileges who installs OS and sometime preventing even administrator from entering extra secured region such as kernel. In the most common OS, \"Windows\" at Microsoft Cooperation also have such a user.",
+                "entity_iso_code": "BR",
+                "category": "HELP OTHERS",
+                "points": 20,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "system",
+                "hint": "He confirms Login action",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Lets Configure log",
+                "active": true,
+                "description": "Most probably we can configure which level  of actions have to be logged in application. In Linux, I have to examine, to determine the level of messages to system log files.",
+                "entity_iso_code": "UZ",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "kernel.h",
+                "hint": "GCC header file",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Help me to load GUI",
+                "active": true,
+                "description": "I am very much new to Linux and currently at the College Lab. When I started my system, all it came is some CLI. Can you help me out?",
+                "entity_iso_code": "DZ",
+                "category": "HELP OTHERS",
+                "points": 20,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "startx",
+                "hint": "I know some instructions will be there to load GUI.",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Basics of Communication",
+                "active": true,
+                "description": "At present condition, there are a lot at network device creating companies, if each company introduces their own mechanism to send\/receive data, devices of no two companies can communicate therefore there must be some common set of rules for them",
+                "entity_iso_code": "SE",
+                "category": "DIRECT QUESTIONS",
+                "points": 20,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "protocol",
+                "hint": "Set of rules that govern all aspects of Information communicate",
+                "penalty": 15
+            },
+            {
+                "type": "quiz",
+                "title": "Basic Definition",
+                "active": true,
+                "description": "Helen, newly joined employee to a network company and her first task is to  list out the data transfer rates at different application that run in the lab. With tension she forgot the name which is used as synonym for something. She defines it as amount of data transferred per unit time.",
+                "entity_iso_code": "FR",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "bandwidth",
+                "hint": "Data transfer rate relating to Frequency",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Parallel Processing",
+                "active": true,
+                "description": "Some tasks are often begun before previous ends, commonly this technique saves a lot of time by parallel processing. Actually not multi processing of single circuit, but parallel processing of many circuits which together resolves a problem.",
+                "entity_iso_code": "NG",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "pipelining",
+                "hint": "Intel introduced this technology in 8086 Microprocessor",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Standardisation",
+                "active": true,
+                "description": "IEEE started a project to set standard, to enable Intercommunication between equipments from various manufacturers, which specifies functions of multiple layered communication",
+                "entity_iso_code": "MN",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "project 802",
+                "hint": "Project with Three digit name",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Help me to access Admin Panel",
+                "active": true,
+                "description": "Our lab assistant had put a tough password to admin account at our lab site. She is damn sure that she will forget the same. So she wrote a script to send the password to her mail when she need it. Here's the admin page link \n    [ https:\/\/networklab.mydomain.net\/\/lablogin.php ]\n\nCan you crack the password for me. I will be very thankful towards you.",
+                "entity_iso_code": "CD",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 70,
+                "bonus": 6,
+                "bonus_dec": 2,
+                "bonus_fix": 30,
+                "flag": "x3cg5dmcq",
+                "hint": "now onwards, check for What we have, ie; SOURCE CODE!",
+                "penalty": 20
+            },
+            {
+                "type": "quiz",
+                "title": "My first class to cryptography",
+                "active": true,
+                "description": "On the first day of our Cryptography class, Sir put an interesting question.He asked us to give him any string, he will encrypt it and in return we have to find his password which results to \"D5yE}Z88v\".\n   [ https:\/\/networklab.mydomain.net\/\/simple_encrypt.php ]",
+                "entity_iso_code": "CN",
+                "category": "ENCRYPTION",
+                "points": 40,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "C3vAxT10m",
+                "hint": "Strings are in ASCII Format",
+                "penalty": 20
+            },
+            {
+                "type": "quiz",
+                "title": "I have a password hidden in a file!",
+                "active": true,
+                "description": "I have an exe with me, a .exe file but it only have an option  to enter a serial number to unlock the executable file to get the key. \n\n   [ https:\/\/networklab.mydomain.net\/\/dl\/app12\/index.php ]",
+                "entity_iso_code": "GL",
+                "category": "CRACK WINDOWS",
+                "points": 100,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "smashthestate",
+                "hint": "Every executable programs contains plain text\/strings.",
+                "penalty": 40
+            },
+            {
+                "type": "quiz",
+                "title": "Decrypt the following text",
+                "active": true,
+                "description": "yrtnuoc_siht_rouqnoc_ot_evom_ot_yugsotpyrcoow__retne tsuj uoy won_tub_,level_siht_etelpmoc_ot__rewop_niarb_fo_tol_a_yolpme_ot_deen_lliw-uoy_,srettam_tahw_si_kniht_uoy_woh_cigol_dliub_ot_sa_os_elpmis_yrev_era_slevel_eseht_.TPYRCEDSTEL_no_slevel_tpyrc_eht_ot_emoclew_,olleH ",
+                "entity_iso_code": "IN",
+                "category": "DIRECT QUESTIONS",
+                "points": 50,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "woocryptosguy",
+                "hint": "",
+                "penalty": 0
+            },
+            {
+                "type": "quiz",
+                "title": "Again have an executable file!",
+                "active": true,
+                "description": "Hi, sorry, I think you have helped me at some other country. But this time  I am assigned to crack another executable file which \"probably\" do not have serial key inside it! \n\nUnfortunately this time app is crashed while uploading. So I just need a serial no which ends in xxxxx-xxxxx-xxxxx-xx511. I have uncracked verson of app, i can find password from it.\nThank You!\n\n[ https:\/\/networklab.mydomain.net\/\/dl\/app14\/index.php ]\n",
+                "entity_iso_code": "PE",
+                "category": "CRACK WINDOWS",
+                "points": 120,
+                "bonus": 8,
+                "bonus_dec": 2,
+                "bonus_fix": 40,
+                "flag": "83478-91933-89823-98511",
+                "hint": "the level14.exe might knows where the serial keys are stored",
+                "penalty": 30
+            },
+            {
+                "type": "quiz",
+                "title": "smelling something?",
+                "active": true,
+                "description": "one of my crazzy techie friend sent me an image!\n\n[ https:\/\/networklab.mydomain.net\/\/level14.php ]",
+                "entity_iso_code": "BW",
+                "category": "ENCRYPTION",
+                "points": 50,
+                "bonus": 2,
+                "bonus_dec": 2,
+                "bonus_fix": 30,
+                "flag": "n38f298hsjf",
+                "hint": "bitmap files are commonly using in beginners levels",
+                "penalty": 10
+            },
+            {
+                "type": "quiz",
+                "title": "Users cant access my site!",
+                "active": true,
+                "description": "Our Lab assistant had appended some security feature into one of the page. Now we can't access data form it. Hope you can help us out in this case. Thankyou in advance!\n\n\n[ https:\/\/networklab.mydomain.net\/\/agent.php ]",
+                "entity_iso_code": "TR",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 80,
+                "bonus": 18,
+                "bonus_dec": 2,
+                "bonus_fix": 30,
+                "flag": "bethewebmaster",
+                "hint": "I had found our lab assistant is using some plugins in firefox.",
+                "penalty": 30
+            },
+            {
+                "type": "quiz",
+                "title": "Techie guy again with some jpg!",
+                "active": true,
+                "description": "That Crazzy techie guy had came again with another trick, and gave me another image!\n\n[ http:\/\/www.compasscek.in\/networklab\/src\/lev16.JPG ]",
+                "entity_iso_code": "IR",
+                "category": "HELP OTHERS",
+                "points": 80,
+                "bonus": 6,
+                "bonus_dec": 2,
+                "bonus_fix": 30,
+                "flag": "p68cq1hb",
+                "hint": "every files  are ultimately stored as 0's and 1's",
+                "penalty": 20
+            },
+            {
+                "type": "quiz",
+                "title": "Someway i have to find",
+                "active": true,
+                "description": "Nothing occour without evidance and clues. There will be some clue in this puzzle too.. Help me to find out password.\n\n[  https:\/\/networklab.mydomain.net\/\/pass_login\/ ]",
+                "entity_iso_code": "MY",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 80,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 30,
+                "flag": "anchorfilter",
+                "hint": "webpage user knows webdesigning well and probably he himself made the website",
+                "penalty": 20
+            },
+            {
+                "type": "quiz",
+                "title": "Everything  is a stream of zero's and one's",
+                "active": true,
+                "description": "Everything  is a stream of zero's and 1's\n\n[ https:\/\/networklab.mydomain.net\/\/level18.php ]",
+                "entity_iso_code": "ZW",
+                "category": "ENCRYPTION",
+                "points": 60,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 10,
+                "flag": "bin",
+                "hint": "Add Exclusively",
+                "penalty": 0
+            },
+            {
+                "type": "quiz",
+                "title": "World is not made up of Zero's And One's",
+                "active": true,
+                "description": "I have something else other than zero's and One's\n\n\n\n[ https:\/\/networklab.mydomain.net\/\/level19.php ]",
+                "entity_iso_code": "US",
+                "category": "ENCRYPTION",
+                "points": 60,
+                "bonus": 10,
+                "bonus_dec": 0,
+                "bonus_fix": 10,
+                "flag": "dhanus17",
+                "hint": "Hey, it seems something is repeating there",
+                "penalty": 20
+            },
+            {
+                "type": "quiz",
+                "title": "Feeling Bored?",
+                "active": true,
+                "description": "Feeling bored of Text? Lets have some music?\n\n[ https:\/\/networklab.mydomain.net\/\/dl\/feelingbored.wav ]",
+                "entity_iso_code": "RU",
+                "category": "ENCRYPTION",
+                "points": 120,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 10,
+                "flag": "welldone",
+                "hint": "Ham Radio",
+                "penalty": 50
+            },
+            {
+                "type": "quiz",
+                "title": "Password is hashed!",
+                "active": true,
+                "description": "I got a chance to peep into database of our lab system, i found a code which probably be the password of any of our service: 'afdb5e011e493ee6fe702def1379a504'",
+                "entity_iso_code": "SA",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 120,
+                "bonus": 42,
+                "bonus_dec": 2,
+                "bonus_fix": 60,
+                "flag": "useragent",
+                "hint": "sometimes there are way to regain unidirectional encryption! go for online database stores!",
+                "penalty": 30
+            },
+            {
+                "type": "quiz",
+                "title": "Sometimes we have to do manupulation",
+                "active": true,
+                "description": "Here I got an exe again from dump. along with a post, replace it with \"icrackedit\".\n\n\n[ https:\/\/networklab.mydomain.net\/\/dl\/icrackedit\/index.php ] ",
+                "entity_iso_code": "TH",
+                "category": "CRACK WINDOWS",
+                "points": 90,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "88parrot24",
+                "hint": "USE HEX EDITOR",
+                "penalty": 30
+            },
+            {
+                "type": "quiz",
+                "title": "Exe Files are compressed set of files",
+                "active": true,
+                "description": "Execuitable Files are compressed set of files like rar and zip. but it have certificates of windows\n\n[ https:\/\/networklab.mydomain.net\/\/dl\/app23.zip ]\n\n",
+                "entity_iso_code": "TZ",
+                "category": "CRACK WINDOWS",
+                "points": 300,
+                "bonus": 70,
+                "bonus_dec": 2,
+                "bonus_fix": 100,
+                "flag": "suffix",
+                "hint": "Use Decompilers to unpack.",
+                "penalty": 120
+            },
+            {
+                "type": "quiz",
+                "title": "Ready Made Answer",
+                "active": true,
+                "description": "all passwords are in small letter\n\n110101010101010101010101010101010101010101010101\n011111111111111111111111111111111111111111111110\n110000000000001100111110011001111111100000000011\n010000000000001100111110011001111111100000000010\n111111100111111100111110011001111111100111110011\n011111100111111100111110011001111111100111110010\n111111100111111100111110011001111111100000000011\n011111100111111100111110011001111111100000000010\n111111100111111100111110011001111111100111111111\n011111100111111100111110011001111111100111111110\n111111100111111100000000011000000001100111111111\n011111100111111100000000011000000001100111111110\n111111111111111111111111111111111111111111111111\n110101010101010101010101010101010101010101010101",
+                "entity_iso_code": "AR",
+                "category": "ENCRYPTION",
+                "points": 20,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 0,
+                "flag": "tulp",
+                "hint": "",
+                "penalty": 0
+            },
+            {
+                "type": "quiz",
+                "title": "Please Hack to Prevent IT!",
+                "active": true,
+                "description": "To complete this challenge you will need to use one of the programs listed below : root.exe\n{available in rar compression} \nA dangerous hacker called Mr.Ezekiel has been on rampage destroying hundreds of sites. Help stop his destruction by aiding us get his password. \nWe know he is running linux so the password file is in the normal spot, but we just cant find any way to root him. \nWe got his IP: 69.13.37.42 Now you need to do the rest. Thanks again. \n\n [ https:\/\/networklab.mydomain.net\/\/dl\/approot\/ ]\n\nNOTE: Remember this is a simulator, so you will not need to use any outside programs for any part of this challenge and the IP is fictional should only be used in the challenge program. All you need to complete the challenge is been built into the program provided.\n",
+                "entity_iso_code": "CA",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 450,
+                "bonus": 72,
+                "bonus_dec": 2,
+                "bonus_fix": 100,
+                "flag": "tspwns",
+                "hint": "An FTP access can read file with password",
+                "penalty": 150
+            },
+            {
+                "type": "quiz",
+                "title": "OFFICIAL INVITATION",
+                "active": true,
+                "description": "CONCIDER IT AS OUR OFFICIAL INVITATION OF DHANUS 2017.\n\n\n[   https:\/\/networklab.mydomain.net\/\/dl\/invitation\/   ]\n\n",
+                "entity_iso_code": "AU",
+                "category": "Quiz",
+                "points": 250,
+                "bonus": 34,
+                "bonus_dec": 2,
+                "bonus_fix": 50,
+                "flag": "compressor",
+                "hint": "I THINK YOU HAD  GONE THROUGH BOTH SIDE OF OUR BROSHURES 'WELL'",
+                "penalty": 80
+            },
+            {
+                "type": "quiz",
+                "title": "DATA THROUGH WEB",
+                "active": true,
+                "description": "DATA THROUGH WEB\n\n[   https:\/\/networklab.mydomain.net\/\/get.php?page=Guest   ]",
+                "entity_iso_code": "AT",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 30,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 10,
+                "flag": "getrequest",
+                "hint": "",
+                "penalty": 0
+            },
+            {
+                "type": "quiz",
+                "title": "GET IS NO MORE SAFE",
+                "active": true,
+                "description": "VALUES TRANSFERED THROUGH GET \/ POST IS NOT MUCH SAFE! WHAT ABOUT STORING IN LOCAL SYSTEM! \n\n[   https:\/\/networklab.mydomain.net\/\/getisnotenough.php   ]",
+                "entity_iso_code": "GN",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 40,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 10,
+                "flag": "sample cookie use",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "SEARCH ENGINES GO AWAY",
+                "active": true,
+                "description": "This Time I assigned some file to block search engines form accessing  password stored files! \n\n[   https:\/\/networklab.mydomain.net\/\/searchengineblocker.php   ]",
+                "entity_iso_code": "MG",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 50,
+                "bonus": 0,
+                "bonus_dec": 2,
+                "bonus_fix": 10,
+                "flag": "robots.txt-indexearchengines",
+                "hint": "Whi commands search engines, sometimes, says it as loud as possible!",
+                "penalty": 5
+            },
+            {
+                "type": "quiz",
+                "title": "Lets Decrypt",
+                "active": true,
+                "description": "Remember Binary's Are Always Made Up of zeros And One's\n\n\n[  https:\/\/networklab.mydomain.net\/\/LETS DECRYPT.jpg    ]",
+                "entity_iso_code": "CO",
+                "category": "CEKLAB~EXPERIMENTS",
+                "points": 100,
+                "bonus": 8,
+                "bonus_dec": 2,
+                "bonus_fix": 30,
+                "flag": "wonderboy",
+                "hint": "We cannot believe our eyes Everytime!",
+                "penalty": 40
+            },
+            {
+                "type": "quiz",
+                "title": "I want support!",
+                "active": true,
+                "description": "Can You Give me a thumps up with a set of 2 lovely heart??",
+                "entity_iso_code": "BY",
+                "category": "Quiz",
+                "points": 50,
+                "bonus": 10,
+                "bonus_dec": 0,
+                "bonus_fix": 10,
+                "flag": "(y)<3<3<3",
+                "hint": "now a days u use whatsapp!! but earlier these were sms",
+                "penalty": 20
+            },
+            {
+                "type": "quiz",
+                "title": "Asymmetric Encryption",
+                "active": true,
+                "description": "What's google.co.uk's SSL certificate public key size?",
+                "entity_iso_code": "RS",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 10,
+                "bonus_dec": 0,
+                "bonus_fix": 10,
+                "flag": " 2048bits",
+                "hint": "",
+                "penalty": -5
+            },
+            {
+                "type": "quiz",
+                "title": "Is the browser secure??",
+                "active": true,
+                "description": "This mechanism allows web servers to instruct only  web browsers to communicate with them using HTTPS connections",
+                "entity_iso_code": "KG",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "hsts",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Tribute to Bradbury",
+                "active": true,
+                "description": "What novel served as motivation for the HTTP \"Unavailable For Legal Reasons\" error code?",
+                "entity_iso_code": "NE",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "fahrenheit451",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Flooded with Traffic",
+                "active": true,
+                "description": "The name of the first DDoS  attack, which was using impersonated ICMP packets?",
+                "entity_iso_code": "CF",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "smurf",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Exploit Computer Security",
+                "active": true,
+                "description": "A common name for a class of instructions used in a Return Oriented Programming payload that performs different computations.",
+                "entity_iso_code": "BO",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "gadget",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Launching Applications",
+                "active": true,
+                "description": "The daemon whose goal is to cast applications in the Android platform",
+                "entity_iso_code": "UA",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "zygote",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Validation!!",
+                "active": true,
+                "description": "Mechanism that conflicts email address spoofing through cryptography and DNS-based authentication",
+                "entity_iso_code": "ET",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "dkim",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Extremely Critical!!",
+                "active": true,
+                "description": "An important SSL vulnerability that affected  key exchange verification in recently used devices",
+                "entity_iso_code": "PG",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "gotofail",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Swiss Army Knife",
+                "active": true,
+                "description": "I am a six charactor long commony used Flexible tool that gives an option for communication and network traffic to flow from one machine to another.",
+                "entity_iso_code": "PY",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "netcat",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Keeps On Mutating..",
+                "active": true,
+                "description": "The type of attack which changes its signature and\/or payload to avoid detection by antivirus programs.\n",
+                "entity_iso_code": "CM",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "polymorphic",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Cracking...Cracking...",
+                "active": true,
+                "description": "The name of the software tool used to break a single account on Netware Servers using a dictionary attack?\n",
+                "entity_iso_code": "BD",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "nwpcrack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "No downloading..Not running *(",
+                "active": true,
+                "description": "Kevin sends an email invite to Chris to visit a forum for security professionals. Chris clicks on the link in the email message and is taken to a web based bulletin board. Unknown to Chris, certain functions are executed on his local system under his privileges, which allow Kevin access to information used on the BBS. However, no executables are downloaded and run on the local system. What would you term this attack?\n",
+                "entity_iso_code": "GB",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "crosssitescripting",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Way 2 high privilege!!",
+                "active": true,
+                "description": "On a default installation of Microsoft IIS web server, under which privilege does the web server software\nexecute?\n",
+                "entity_iso_code": "PL",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 8,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "system",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Guyz...Stay alert!!",
+                "active": true,
+                "description": "What is the term to describe an attack that falsifies a broadcast ICMP echo request and includes a primary and secondary victim?",
+                "entity_iso_code": "FI",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "smurfattack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Extracting Log files",
+                "active": true,
+                "description": "Which tool can help you extract the application layer data from each TCP connection from a log file into separate files?\n",
+                "entity_iso_code": "YE",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "tcpflow",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Different URLs on same page...Woww",
+                "active": true,
+                "description": "Name the process of converting something from one representation to the simplest form. It deals with the way in which systems convert data from one form to another.\n",
+                "entity_iso_code": "NZ",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "canonicalization",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Hide and seek",
+                "active": true,
+                "description": "What file system vulnerability does the following command take advantage of?\ntype c:\\anyfile.exe > c:\\winnt\\system32\\calc.exe:anyfile.exe",
+                "entity_iso_code": "AZ",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "ads",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Cracking Password..",
+                "active": true,
+                "description": "You have retrieved the raw hash values from a Windows 2000 Domain Controller. Using social engineering,\nyou come to know that they are enforcing strong passwords. You understand that all users are required to use passwords that are at least 8 characters in length. All passwords must also use 3 of the 4 following categories: lower case letters, capital letters, numbers and special characters. With your existing knowledge of users, likely user account names and the possibility that they will choose the easiest passwords possible, what would be the fastest type of password cracking attack you can run against these hash values and still get results?\n",
+                "entity_iso_code": "VN",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "hybridattack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "A sort of IDS defeating technique",
+                "active": true,
+                "description": "This IDS defeating technique works by splitting a datagram (or packet) into multiple fragments and the IDS will\nnot spot the true nature of the fully assembled datagram. The datagram is not reassembled until it reaches its\nfinal destination. It would be a processor-intensive task for IDS to reassemble all fragments itself, and on a\nbusy system the packet will slip through the IDS onto the network. What is this technique called?",
+                "entity_iso_code": "CU",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 5,
+                "bonus_fix": 20,
+                "flag": "session splicing",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Type of Attack",
+                "active": true,
+                "description": "Alice want to talk to BOB and Tom is another user in the same network who is not an authorized one. By the way Tom tries to capture all the details sent from Alice's PC to BoB's PC. and vice versa",
+                "entity_iso_code": "JP",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "man in the middle",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Type of Attack",
+                "active": true,
+                "description": "I was an Accountent at an MNC, Pretending to be our administrator, John contacted me  and requested that there has been a problem with some accounts and asked  to verify the password with him \"just to double\ncheck our records.\" I did not suspect anything amiss, and parts my password.",
+                "entity_iso_code": "PH",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "social engineering",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "I am Waiting",
+                "active": true,
+                "description": "TCP SYN Flood attack uses the three-way handshake mechanism.\n1. An attacker at system A sends a SYN packet to victim at system B.\n2. System B sends a SYN\/ACK packet to victim A.\n3. As a normal three-way handshake mechanism system A should send an ACK packet to system B, however,\nsystem A does not send an ACK packet to system B. In this case client B is waiting for an ACK packet from\nclient A.\nBut Still B is waiting in some state",
+                "entity_iso_code": "RO",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "half open",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Who he send it?",
+                "active": true,
+                "description": "XD is a Certified Hacking Forensics Investigator who is assigned to find some data leaks of a well reputed MNC. They are sure some of the emploies who is spying! at last XD found an employee who sent bulky load of emails which seem perfectly harmless, usually containing some kind of joke.",
+                "entity_iso_code": "KZ",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "steganography",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "BE MASTER AT NMAP",
+                "active": true,
+                "description": "You run nmap port Scan on 10.0.0.5 and attempt to gain banner\/server information from services running on\nports 21, 110 and 123.\nHere is the output of your scan results:\n\n\nPORT        STATE      SERVICE      VERSION\n21\/tcp      open       ftp          vsftpd2.0.7\n110\/tcp     open       pop3         courier pop3d\n123\/tcp     closed     ntp\n\nDevice type : general purpose\nRunning : Linux 2.0.x\n\nOS DETAILS : Linux 2.0.16, Linux 2.8.20 ~ 2.8.24\nUPTIME : 65.658 days\nNetwork Distance : 0 hops\nService Info : OS: Unix\n\nWhich of the following nmap command did you run?\n(case sensitive)",
+                "entity_iso_code": "OM",
+                "category": "Quiz",
+                "points": 50,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "nmap -O -sV -p21, 110, 123 10.0.0.5",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "ICMP  ERROR CODE!!!",
+                "active": true,
+                "description": "What does ICMP (type 11, code 0) denote?",
+                "entity_iso_code": "TM",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "Time Exceeded",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Direct SQL INJECTION",
+                "active": true,
+                "description": "The following script shows a simple SQL injection.\n\n\"SELECT * FROM orders\n WHERE City = '\" + $_USER_INPUT + \"'\";\n\nHow Could you drop the whole database.\nuser is prompted to enter 'Panaji'\n\n(small letters only)",
+                "entity_iso_code": "ES",
+                "category": "Quiz",
+                "points": 50,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "Panaji'; drop table orders;",
+                "hint": "Neglegt last quote if there is semicolumn after each SQL statement",
+                "penalty": -5
+            },
+            {
+                "type": "quiz",
+                "title": "Find the Vernuability",
+                "active": true,
+                "description": "Automated scanning which searches for vernuabilities of the device!",
+                "entity_iso_code": "SO",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "vulnerability scan",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "FIND THE VIRUS!",
+                "active": true,
+                "description": "Wake up on Saturday of every week and execuite the code.",
+                "entity_iso_code": "HN",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "sparse infector virus",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Name The Attack",
+                "active": true,
+                "description": "The email asks the employee of an MNC to log into a bogus page that requests the employee's user name and password\nor click on a link that will download spyware or other malicious programming.\nGoogle's Gmail was hacked using this technique and attackers stole source code and sensitive data from\nGoogle servers. This is highly sophisticated attack using zero-day exploit vectors, social engineering and malware websites that focused on targeted individuals working for the company",
+                "entity_iso_code": "GY",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "spear phishing attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "What session hijacking attack",
+                "active": true,
+                "description": "John When Loged in into citybank account fot a Session id 95D51B8F246DCA22BFC889626C\n\nAttacker sent a link to JOHN as\n\" Hey JOHN, Check our our new cool fatures  at :\nhttps:\/\/citybank.com?SID=95D51B8F246DCA22BFC889626C \" \nWith Greetings,\nCITYBANK \"\n\n\n",
+                "entity_iso_code": "AF",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "session fixation attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "TYPE OF PORT SCAN",
+                "active": true,
+                "description": "Client Server closed port\n\n192.128.8.64:3128-------FIN----->192.3.18.4:21\n192.128.8.64:3128<----RST\/ACK----192.3.18.4:21\n\n",
+                "entity_iso_code": "CG",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 18,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "fin scan",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Again Definition",
+                "active": true,
+                "description": "the process of checking physical media for virus before they are used in a computer",
+                "entity_iso_code": "AO",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "sheepdip",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "I cant access closed port",
+                "active": true,
+                "description": "You are doing IP spoofing while you scan your target. You find that the target has port 23 open.\nAnyway you are unable to connect. Why You cannot access it? If the access are wirtten in some config files, name it of name the service who blocks your access",
+                "entity_iso_code": "SD",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "firewall",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "loopback at IPV4",
+                "active": true,
+                "description": "what i have to type in address bar inorder to get into that system itself when my system is alloated only with IPV6 addressing",
+                "entity_iso_code": "PT",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "[::1]",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "loopback at IPV4",
+                "active": true,
+                "description": "LoopBack address of IPV4",
+                "entity_iso_code": "LY",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "127.0.0.1",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Have a Ping Test",
+                "active": true,
+                "description": "While examining a log report you find out that an intrusion has been attempted by a machine whose IP address is displayed as 0xab.0x23.0x45.0xef\nget me the IP ADDRESS ?",
+                "entity_iso_code": "MM",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "171.35.69.239",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Mediator",
+                "active": true,
+                "description": "Eric has discovered a fantastic package of tools named Dsniff on the Internet. He has learnt to use these tools in his lab and is now ready for real world exploitation. He was able to effectively intercept communications between the two entities and establish credentials with both sides of the connections. The two remote ends of the communication never notice that Eric is relaying the information between the two.\nWhat would you call this attack?\n",
+                "entity_iso_code": "BF",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "man-in-the-middle attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Company's stuff ",
+                "active": true,
+                "description": "Susan has attached to her company's network. She has managed to synchronize her boss's sessions with that\nof the file server. She then intercepted his traffic destined for the server, changed it the way she wanted to and then placed it on the server in his home directory. What kind of attack is Susan carrying on?\n",
+                "entity_iso_code": "MX",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "man in the middle attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "One-to-One",
+                "active": true,
+                "description": "Which address translation scheme would allow a single public IP address to always correspond to a single\nmachine on an internal network, allowing \"server publishing\"?",
+                "entity_iso_code": "CL",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "static network address translation",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Between Network & Host",
+                "active": true,
+                "description": "According to the CEH methodology, what is the next step to be performed after footprinting?",
+                "entity_iso_code": "NI",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "scanning",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Hidden Threat",
+                "active": true,
+                "description": "__________ is found in all versions of NTFS and is described as the ability to fork file data into existing files without affecting their functionality, size, or display to traditional file browsing utilities like dir or Windows Explorer",
+                "entity_iso_code": "ZA",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "alternate data streams",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "How Secure the Data Is??",
+                "active": true,
+                "description": "The network administrator for a company is setting up a website with e-commerce capabilities. Packet sniffing is a concern because credit card information will be sent electronically over the Internet. Customers visiting the site will need to encrypt the data with HTTPS. Which type of certificate is used to encrypt and decrypt the data?",
+                "entity_iso_code": "TJ",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "asymmetric",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "LAN..WAN..",
+                "active": true,
+                "description": "In the OSI model, where does PPTP encryption take place?",
+                "entity_iso_code": "NA",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "datalink layer",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Alert!!..Alert!!",
+                "active": true,
+                "description": "A network administrator received an administrative alert at 3:00 a.m. from the intrusion detection system. The alert was generated because a large number of packets were coming into the network over ports 20 and 21.\nDuring analysis, there were no signs of attack on the FTP servers.\nHow should the administrator classify this situation",
+                "entity_iso_code": "LA",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "false positives",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Firewalls",
+                "active": true,
+                "description": "While conducting a penetration test, the tester determines that there is a firewall between the tester's machine and the target machine. The firewall is only monitoring TCP handshaking of packets at the session layer of the OSI model. Which type of firewall is the tester trying to traverse?",
+                "entity_iso_code": "ML",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "circuit level gateway firewall",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Vulnerabilities Everywhere!!",
+                "active": true,
+                "description": "Which Open Web Application Security Project implements a web application full of known vulnerabilities?",
+                "entity_iso_code": "EC",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "webgoat",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Selective Access Restriction",
+                "active": true,
+                "description": "Which type of access control is used on a router  to limit network activity?",
+                "entity_iso_code": "MA",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "rule based",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Traffic Sniffing",
+                "active": true,
+                "description": "An attacker sniffs encrypted traffic from the network and is subsequently able to decrypt it. The attacker cannow use which cryptanalytic technique to attempt to discover the encryption key?",
+                "entity_iso_code": "GR",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "chosen ciphertext attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "I am Cheated",
+                "active": true,
+                "description": "I got a mail  which seems to be from one of my  higher officials, but when i clicked the link, it was actually pointed to some fakepages!! :(",
+                "entity_iso_code": "CR",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "phishing attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Alert keystrokes have been stored",
+                "active": true,
+                "description": "An authorized program that has been designed to capture keyboard keystroke while the user is unaware of such activity being performed\n",
+                "entity_iso_code": "ZM",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "keylogger",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Alert! Some Unwanted Code is injected",
+                "active": true,
+                "description": "A legitimate program that has been altered by the placement of unauthorized code within it; this code performs functions unknown (and probably unwanted) by the user",
+                "entity_iso_code": "ID",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "trojan horse",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "TCP\/IP Session Hijacking",
+                "active": true,
+                "description": "TCP\/IP Session Hijacking is carried out in which OSI layer?\n",
+                "entity_iso_code": "KP",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "transport layer",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Hackers Might be fake",
+                "active": true,
+                "description": "An attacker Seems to be a hacker but always use tools to perform any action but donot knew whats happening",
+                "entity_iso_code": "SJ",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 18,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "script kiddies",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": " TCP flags ",
+                "active": true,
+                "description": " TCP flag  Used to close a TCP connection...",
+                "entity_iso_code": "IT",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "fin",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "penetrate the modem",
+                "active": true,
+                "description": "the use of a program in conjunction with a modem to penetrate the modem\/PBX-based\nsystems\n",
+                "entity_iso_code": "CI",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "war dialing",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "determine the Operating system and version",
+                "active": true,
+                "description": "This method is used to determine the Operating system and version running on a remote target system. What\nis it called?",
+                "entity_iso_code": "PK",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "os fingerprinting",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Optimizing Network Security",
+                "active": true,
+                "description": "Threat modelling occurs in which phase of software security development lifecycle process?",
+                "entity_iso_code": "CZ",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "design",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Addressing Scheme",
+                "active": true,
+                "description": "Broadcast address for the subnet 190.86.168.0\/22?",
+                "entity_iso_code": "SS",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "190.86.171.255",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Mapping a Network",
+                "active": true,
+                "description": "A security engineer is trying to map a particular company's network.He then enters through the following command:\nNMAP n sS P0 p 80 ***.***.**.**\nName this type of scanning?",
+                "entity_iso_code": "HR",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 14,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "stealth scan",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Trial with two Corps",
+                "active": true,
+                "description": "Syngress Corp is fighting a litigation suit with Scamster Inc. Syngress has assigned a private investigative agency to go through garbage, recycled paper, and other rubbish at Scamster's office site in order to find relevant information. What would you call this kind of activity?",
+                "entity_iso_code": "NO",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 16,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "dumpster driving",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Slow and steady wins the race",
+                "active": true,
+                "description": "You are conducting Port scanning with nmap. You are in quick and performing the scans at the fastest possible speed. However, you don't want to sacrifice reliability for speed. If stealth is not an issue, what type of scan should you run to get very reliable results?",
+                "entity_iso_code": "MR",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "connect scan",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Vibgyor",
+                "active": true,
+                "description": "What do you call a pre-computed hash?",
+                "entity_iso_code": "DE",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "rainbow tables",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Combination of words,numbers",
+                "active": true,
+                "description": "A type of password cracking technique that works like dictionary attack but adds some numbers and symbols\nto the words from the dictionary and tries to crack the password",
+                "entity_iso_code": "MZ",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 10,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "hybrid attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Capturing traffic",
+                "active": true,
+                "description": "Type of sniffing performed on a switched network?",
+                "entity_iso_code": "KE",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "active sniffing",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Invisible to attacker",
+                "active": true,
+                "description": "This attack technique is used when a Web application is vulnerable to an SQL Injection but the results of the injection are not visible to the attacker.",
+                "entity_iso_code": "GT",
+                "category": "Quiz",
+                "points": 30,: 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "blind sql injection",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Read sensitive data",
+                "active": true,
+                "description": "This attack uses social engineering techniques to trick users into accessing a fake Web site and revealing personal information. Attackers send a legitimate-looking e-mail asking users to update their information on the company's Web site, but the URLs in the e-mail actually point to a false Web site.",
+                "entity_iso_code": "VE",
+                "category": "Quiz",
+                "points": 30,
+                "bonus": 12,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "phishing attack",
+                "hint": "",
+                "penalty": -2
+            },
+            {
+                "type": "quiz",
+                "title": "Help her out...",
+                "active": false,
+                "description": "Romi is presently logged in as a  Nessus  Client in a Linux machine....But she  wants to make certain changes in the Nessus server...Can you help her out?",
+                "entity_iso_code": "TD",
+                "category": "Quiz",
+                "points": 20,
+                "bonus": 20,
+                "bonus_dec": 2,
+                "bonus_fix": 20,
+                "flag": "nessus&",
+                "hint": "",
+                "penalty": -2
+            }
+        ]
+    }
+}
